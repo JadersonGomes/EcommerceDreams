@@ -12,6 +12,7 @@ namespace EcommerceDreams
 {
     public class Program
     {
+        // Teste
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
